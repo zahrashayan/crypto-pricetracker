@@ -1,4 +1,4 @@
-Crypto Price Tracker
+**Crypto Price Tracker**
 
 A responsive, real-time cryptocurrency price tracker built with **React**, **Vite**, and the **CoinGecko API**. This web app allows users to view market data, individual coin stats, and historical price trends with a clean and simple interface.
 
